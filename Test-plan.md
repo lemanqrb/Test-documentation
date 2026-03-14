@@ -5,24 +5,24 @@ Birmarket saytında **Login bölməsinə aid bütün funksionallıqları yoxlama
 
 ---
 
-## 2. Active Modules of the Website
+## 2. Saytın Aktiv Modulları
 - Login
-- Logout
+- Log out
 - Cart
-- Sign Up
+- Sign up
 
 ---
 
-## 3. Testing Types
+## 3. Testing Növləri
 - Functional Testing
 - Smoke Testing
 - Regression Testing
 
 ---
 
-## 4. Test Tools
-- **Web Browser** – Testlərin icrası
-- **Qase** – Test case-lərin, test run-ların və test suit-lərin yaradılması və idarə olunması
+## 4. Test Alətləri
+- **Web Browser** – Testlərin icrası üçün
+- **Qase** – Test case-lərin, test run-ların və test suit-lərin yaradılması
 - **JMeter** – Sistemin performansını yoxlamaq üçün
 
 ---
@@ -33,30 +33,26 @@ Birmarket saytında **Login bölməsinə aid bütün funksionallıqları yoxlama
 
 ---
 
-## 6. Entry Criteria
-- Sayt aktiv və əlçatan olmalıdır
-- Test environment hazır olmalıdır
-- Test case-lər Qase sistemində yaradılmış olmalıdır
-- QA alətləri işlək vəziyyətdə olmalıdır
+## 6. Entry Criteria (Giriş Kriteriyaları)
+- Test case-lər yazılıb
+- Test mühiti hazırdır
 
 ---
 
 ## 7. Exit Criteria
-- Bütün planlaşdırılmış test case-lər icra olunmuş olmalıdır
-- Kritik və yüksək prioritetli bug-lar fix edilmiş olmalıdır
-- Test nəticələri sənədləşdirilmiş olmalıdır
-- Test Summary Report hazırlanmış olmalıdır
+- Test case-lərin **85%-i passed** olmalıdır
+- **Critical defectlər** olmamalıdır
 
 ---
 
-## 8. Risks
+## 8. Risklər
 - Saytın işlək vəziyyətdə olmaması
 - Sistem çökməsi
-- QA alətlərinin işləməməsi
+- QA staff işlək vəziyyətdə olmaması
 
 ---
 
-## 9. Resources
+## 9. Resurslar
 - **QA Engineer:** Ləman Qurbanova
 
 ---
@@ -67,5 +63,5 @@ Birmarket saytında **Login bölməsinə aid bütün funksionallıqları yoxlama
 
 ---
 
-## 11. Timeline
+## 11. Vaxt
 **10.03 – 14.03**
